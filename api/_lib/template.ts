@@ -42,10 +42,10 @@ function getCss() {
     
     .heading {
         font-family: 'DotGothic16', sans-serif;
-        font-size: 100px;
+        font-size: 150px;
         font-style: normal;
         color: #fff;
-        line-height: 1.8;
+        line-height: 1.2;
         position: relative;
 
         display: -webkit-box;
