@@ -52,6 +52,8 @@ function getCss() {
         -webkit-line-clamp: 6;
         -webkit-box-orient: vertical;  
         overflow: hidden;
+
+        text-align: left;
     }
     .heading:before, .heading:after{
         position: absolute;
